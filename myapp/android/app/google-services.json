@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296501579034",
+    "project_id": "castro-biodata",
+    "storage_bucket": "castro-biodata.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296501579034:android:39282e59f3c03bc48db0a3",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjyKVfiXUvPcDqDL-Wma1I98kXIwZ85ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
