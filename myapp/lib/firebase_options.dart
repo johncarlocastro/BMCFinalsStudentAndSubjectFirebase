@@ -50,19 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC94PhjF7eJZmdgJaN6-LooO-uXdWCZD-U',
-    appId: '1:296501579034:web:d8aeb111e2826e178db0a3',
-    messagingSenderId: '296501579034',
-    projectId: 'castro-biodata',
-    authDomain: 'castro-biodata.firebaseapp.com',
-    storageBucket: 'castro-biodata.firebasestorage.app',
+    apiKey: 'AIzaSyAze1ybC2O4x58PTlfREUQr3pGRGqHZios',
+    appId: '1:212923238095:web:15473d02f6799efc7f59ba',
+    messagingSenderId: '212923238095',
+    projectId: 'secondproject2-12041',
+    authDomain: 'secondproject2-12041.firebaseapp.com',
+    storageBucket: 'secondproject2-12041.firebasestorage.app',
+    measurementId: 'G-KTNZJQZH7J',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAjyKVfiXUvPcDqDL-Wma1I98kXIwZ85ug',
-    appId: '1:296501579034:android:39282e59f3c03bc48db0a3',
-    messagingSenderId: '296501579034',
-    projectId: 'castro-biodata',
-    storageBucket: 'castro-biodata.firebasestorage.app',
+    apiKey: 'AIzaSyD9Exz0Lsto61tWxrem-TcIAqW1kN7bTs8',
+    appId: '1:212923238095:android:1dabcaf77331f3077f59ba',
+    messagingSenderId: '212923238095',
+    projectId: 'secondproject2-12041',
+    storageBucket: 'secondproject2-12041.firebasestorage.app',
   );
 }
